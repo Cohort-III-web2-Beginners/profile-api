@@ -4,7 +4,7 @@
 Build a small backend API using FastAPI, JWT authentication, SQLAlchemy ORM, and image upload handling.
 
 The goal is to create a user profile system where users can register, log in, update their profile, and upload a profile picture. Protected routes must require a valid JWT.
-
+You must also **containerize the project using Docker**.
 ---
 
 ## Requirements
